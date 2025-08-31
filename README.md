@@ -3,8 +3,8 @@
   <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Banner Nescau" width="1000"/>
 </p>
 
-### Apaixonado por **games, tecnologia e programação 🎮💻**  
-### Sempre explorando novas linguagens, frameworks e criando coisas incríveis! 🚀
+### Apaixonado por **games, tecnologia e programação 🎮💻🚀**  
+### Sempre explorando novas linguagens, frameworks e criando coisas incríveis! 
 
 
 
