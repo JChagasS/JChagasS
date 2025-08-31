@@ -62,7 +62,7 @@
 
 ## 🌐 Meus contatos
 <p align="center">
-  <a href="www.linkedin.com/in/jessica-chagas-44a458187">
+  <a href="https://www.linkedin.com/in/jessica-chagas-44a458187">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
