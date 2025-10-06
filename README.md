@@ -4,8 +4,6 @@
 </p>
 
 
-### Sempre explorando novas linguagens, frameworks. 
-
 
 
 ---
