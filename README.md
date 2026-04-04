@@ -49,7 +49,7 @@
 <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=JChagasS"/>
 </p> -->
 
-
+---
 
 ## 🔝 Activity Graph
 <p align="center"> 
