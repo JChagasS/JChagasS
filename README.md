@@ -46,7 +46,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=onestar&v=1"/>
+<img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=JChagasS"/>
 </p>
 
 ---
