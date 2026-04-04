@@ -1,26 +1,28 @@
 <!-- 🎮 Nescau's GitHub Profile - Banner animado -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Banner Nescau" width="1000"/>
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Banner Nescau" width="1000"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Nescau's GitHub Stats"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JChagasS&theme=github_dark" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Nescau's GitHub Stats"/><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=JChagasS&theme=github_dark" alt="GitHub Streak"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🛠 Tecnologias & Ferramentas
 
-### 🚀 Frameworks & Bibliotecas
+### 🚀 Frameworks & Estruturas
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-087EA4?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 💻 Linguagens
@@ -44,29 +46,29 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 🔝 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JChagasS&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JChagasS&theme=github-dark" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## 🌐 Meus Contatos
 <p align="center">
-  <a href="https://www.linkedin.com/in/jessica-chagas-44a458187" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jessicachagasjf1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://gitlab.com/JNfx" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/jessica-chagas-44a458187" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jessicachagasjf1@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://gitlab.com/JNfx" target="_blank">
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
