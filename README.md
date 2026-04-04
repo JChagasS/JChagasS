@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+<!--## 🛠 Tecnologias & Ferramentas -->
 
 ### 🚀 Frameworks & Estruturas
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -42,14 +42,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
----
+
 
 <!--## 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=JChagasS"/>
 </p> -->
 
----
+
 
 ## 🔝 Activity Graph
 <p align="center"> 
