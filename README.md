@@ -44,10 +44,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=JChagasS"/>
-</p>
+</p> -->
 
 ---
 
