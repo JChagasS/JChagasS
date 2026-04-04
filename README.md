@@ -6,9 +6,9 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400"/><br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><br/>
 <img src="https://streak-stats.demolab.com?user=JChagasS&theme=github-dark&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark&cache_seconds=86400"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ## 🔝 Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JChagasS&theme=github-dark" alt="Activity Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=onestar&v=1"/>
 </p>
 
 ---
