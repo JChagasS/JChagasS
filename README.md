@@ -46,14 +46,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=github_dark&no-frame=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=onestar&v=1"/>
 </p>
 
 ---
 
 ## 🔝 Activity Graph
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=onestar&v=1"/>
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JChagasS&theme=github-dark" alt="Activity Graph"/> 
 </p>
 
 ---
