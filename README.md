@@ -6,9 +6,9 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Nescau's GitHub Stats"/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=JChagasS&theme=github_dark" alt="GitHub Streak"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400"/><br/>
+<img src="https://streak-stats.demolab.com?user=JChagasS&theme=github-dark&hide_border=false"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark&cache_seconds=86400"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JChagasS&theme=github_dark&no-frame=true&margin-w=8"/>
 </p>
 
 ---
