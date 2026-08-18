@@ -8,7 +8,7 @@
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><br/>
-<img src="https://streak-stats.demolab.com/?user=JChagasS&theme=github-dark"/><br/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JChagasS&theme=github-dark&hide_border=false"/><br/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark"/>
 </p>
 
