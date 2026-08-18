@@ -6,9 +6,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><br/>
-<img src="https://streak-stats.demolab.com?user=JChagasS&theme=github-dark&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark"/>
+<img src="https://streak-stats.demolab.com?user=JChagasS&theme=github-dark&hide_border=false"/>
 </p>
 
 ---
@@ -43,13 +41,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-
-<!--## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=JChagasS"/>
-</p> -->
 
 ---
 
