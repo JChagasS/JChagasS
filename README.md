@@ -11,13 +11,13 @@
 
 <table> <tr> <td align="left" valign="middle">
 
-  <h2 align="center">👾 JC.exe</h2>
+  <h2 align="center">👾 Nescau.exe</h2>
 
 <p align="center"> 🎓 <strong>ADS Student</strong><br> 💻 <strong>Developer in progress</strong><br> 🐧 <strong>Linux enthusiast</strong><br> 🎮 <strong>Gamer</strong> </p>
   <br>
 
   <p>
-    <em>Building my skills one project at a time. 🚀</em>
+    <em>Building my skills one project at a time.</em>
   </p>
 
 </td>
