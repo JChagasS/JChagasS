@@ -11,15 +11,9 @@
 
 <table> <tr> <td align="left" valign="middle">
 
-  <h2>👾 Nescau.exe</h2>
+  <h2 align="center">👾 JC.exe</h2>
 
-  <p>
-    🎓 <strong>ADS Student</strong><br>
-    💻 <strong>Developer in progress</strong><br>
-    🐧 <strong>Linux enthusiast</strong><br>
-    🎮 <strong>Gamer</strong>
-  </p>
-
+<p align="center"> 🎓 <strong>ADS Student</strong><br> 💻 <strong>Developer in progress</strong><br> 🐧 <strong>Linux enthusiast</strong><br> 🎮 <strong>Gamer</strong> </p>
   <br>
 
   <p>
