@@ -8,7 +8,9 @@
 
 <!-- 👾 Nescau.exe + 🐱 Gato -->
 
-<table width="100%"> <tr> <td width="60%" align="left" valign="middle">
+<div align="center">
+
+<table> <tr> <td align="left" valign="middle">
 
   <h2>👾 Nescau.exe</h2>
 
@@ -27,7 +29,9 @@
 
 </td>
 
-<td width="40%" align="right" valign="middle">
+<td width="80"></td>
+
+<td align="center" valign="middle">
 
   <img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octuscat-git-1-removebg-preview.png" alt="Nescau Gamer Octocat" width="350"/>
 
@@ -35,13 +39,7 @@
 
 </tr> </table>
 
----
-
-## 🚀 Frameworks & Estruturas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,tailwind,dotnet&perline=6" />
-</p>
+</div>
 
 ---
 
