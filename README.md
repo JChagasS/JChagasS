@@ -8,36 +8,32 @@
 
 <!-- 👾 Nescau.exe + 🐱 Gato -->
 
-<table>
-  <tr>
-    <td width="55%" valign="middle">
+<table> <tr> <td width="55%" valign="middle">
 
-### 👾 Nescau.exe
+  <h2>👾 Nescau.exe</h2>
 
-🎓 **ADS Student**
-💻 **Developer in progress**
-🐧 **Linux enthusiast**
-🎮 **Gamer**
+  <p>
+    🎓 <strong>ADS Student</strong><br>
+    💻 <strong>Developer in progress</strong><br>
+    🐧 <strong>Linux enthusiast</strong><br>
+    🎮 <strong>Gamer</strong>
+  </p>
 
-<br>
+  <br>
 
-> Building my skills one project at a time. 🚀
+  <p>
+    <em>Building my skills one project at a time. 🚀</em>
+  </p>
 
-```
 </td>
 
 <td width="45%" align="center" valign="middle">
-```
 
-<img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octuscat-git-1-removebg-preview.png" alt="Nescau Gamer Octocat" width="350"/>
+  <img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octuscat-git-1-removebg-preview.png" alt="Nescau Gamer Octocat" width="350"/>
 
-```
 </td>
-```
 
-  </tr>
-</table>
-
+</tr> </table>
 ---
 
 ## 🚀 Frameworks & Estruturas
