@@ -10,8 +10,11 @@
 
 <div align="center">
 
-<table> <tr> <td align="left" valign="middle">
+<table>
+  <tr>
+    <td align="left" valign="middle">
 
+```
   <h2>👾 Nescau.exe</h2>
 
   <p>
@@ -36,8 +39,10 @@
   <img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octuscat-git-1-removebg-preview.png" alt="Nescau Gamer Octocat" width="350"/>
 
 </td>
+```
 
-</tr> </table>
+  </tr>
+</table>
 
 </div>
 
@@ -51,10 +56,22 @@
 
 ---
 
+## 🚀 Frameworks & Estruturas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,reactnative,nextjs,tailwind,dotnet&perline=7" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jwt" />
+</p>
+
+---
+
 ## 🗄️ Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=6" />
 </p>
 
 ---
@@ -87,19 +104,27 @@
 
 ---
 
+## 🔝 Gráfico de Atividades
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JChagasS&theme=github-dark" alt="Gráfico de Atividades"/>
+</p>
+
+---
+
 ## 🌐 Meus Contatos
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jessica-chagas-44a458187">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:jessicachagasjf1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://gitlab.com/JNfx">
-    <img src="https://skillicons.dev/icons?i=gitlab" width="45" alt="GitLab"/>
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="45" alt="GitLab"/>
   </a>
 </p>
 
