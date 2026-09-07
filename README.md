@@ -12,7 +12,7 @@
   <tr>
     <td align="center" width="50%">
 
-     <img src="./assets/octocat-gamer-git.jpg" alt="Nescau no setup" width="400"/>
+     <img src="./Assets/octocat-gamer-git.jpg" alt="Nescau no setup" width="400"/>
 
     </td>
 
