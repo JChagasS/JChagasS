@@ -7,16 +7,33 @@
 ---
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><br/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JChagasS&theme=github-dark&hide_border=false"/><br/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark"/>
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.svg" alt="Nescau"/>
 </p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="150"/>
+
+</td>
+
+<td align="left" width="50%">
+
+### 👾 Nescau.exe
+
+🎓 ADS Student
+💻 Developer in progress
+🐧 Linux enthusiast
+🎮 Gamer
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!--## 🛠 Tecnologias & Ferramentas -->
-
-### 🚀 Frameworks & Estruturas
+## 🚀 Frameworks & Estruturas
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -29,12 +46,9 @@
 
 ### 💻 Linguagens
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,html" />
+</p>
 
 ### 🗄 Banco de Dados
 
@@ -56,10 +70,17 @@
 
 ---
 
-## 🔝 Activity Graph
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JChagasS&theme=github-dark&hide_border=false"/><br/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark"/>
+</p>
 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JChagasS&theme=github-dark" alt="Activity Graph"/> 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
