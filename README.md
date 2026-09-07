@@ -1,4 +1,4 @@
-<!-- 🎮 Nescau's GitHub Profile - Banner animado -->
+<!-- 🎮 Nescau's GitHub Profile -->
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Banner Nescau" width="1000"/>
@@ -6,21 +6,34 @@
 
 ---
 
-<!-- 🐱 Gato + Nescau.exe -->
+<!-- 👾 Nescau.exe + 🐱 Gato -->
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
+    <td width="55%" valign="middle">
 
-  <p align="center"> <img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octuscat-git-1-removebg-preview.png" alt="Nescau no setup" width="400"/> </p>
-
-  ---
 ### 👾 Nescau.exe
 
-🎓 ADS Student  
-💻 Developer in progress  
-🐧 Linux enthusiast  
-🎮 Gamer  
+🎓 **ADS Student**
+💻 **Developer in progress**
+🐧 **Linux enthusiast**
+🎮 **Gamer**
+
+<br>
+
+> Building my skills one project at a time. 🚀
+
+```
+</td>
+
+<td width="45%" align="center" valign="middle">
+```
+
+<img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octuscat-git-1-removebg-preview.png" alt="Nescau Gamer Octocat" width="350"/>
+
+```
+</td>
+```
 
   </tr>
 </table>
@@ -29,7 +42,7 @@
 
 ## 🚀 Frameworks & Estruturas
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,tailwind,dotnet&perline=6" />
 </p>
 
@@ -37,7 +50,7 @@
 
 ## 💻 Linguagens
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,html&perline=6" />
 </p>
 
@@ -45,15 +58,15 @@
 
 ## 🗄️ Banco de Dados
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&perline=6" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=6" />
 </p>
 
 ---
 
 ## 🔧 Infraestrutura & DevOps
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,gitlab&perline=6" />
 </p>
 
@@ -71,7 +84,9 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=JChagasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JChagasS&layout=compact&theme=github_dark"/>
 </p>
 
@@ -79,18 +94,22 @@
 
 ## 🌐 Meus Contatos
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jessica-chagas-44a458187" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="https://www.linkedin.com/in/jessica-chagas-44a458187">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:jessicachagasjf1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
   </a>
-
-  <a href="https://gitlab.com/JNfx" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://gitlab.com/JNfx">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="45" alt="GitLab"/>
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<p align="center">
+  <sub>🎮 Code • Learn • Build • Repeat</sub>
+</p>
