@@ -114,7 +114,6 @@
     <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" alt="GitLab"/>
   </a>
 </p>
----
 
 <p align="center">
   <sub>🎮 Code • Learn • Build • Repeat</sub>
