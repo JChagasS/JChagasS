@@ -16,10 +16,7 @@
   <p>
     🎓 <strong>ADS Student</strong><br>
     💻 <strong>Developer in progress</strong><br>
-    🐧 <strong>Linux enthusiast</strong><br>🌐 Meus Contatos
-
-<p align="center"> <a href="https://www.linkedin.com/in/jessica-chagas-44a458187"> width="40" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:jessicachagasjf1@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://gitlab.com/JNfx"> <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" alt="GitLab"/> </a> </p>
-
+    🐧 <strong>Linux enthusiast</strong><br>
     🎮 <strong>Gamer</strong>
   </p>
 
@@ -64,7 +61,7 @@
 ## 🗄️ Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=6" />
 </p>
 
 ---
