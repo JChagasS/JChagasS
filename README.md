@@ -22,7 +22,6 @@
 🐧 Linux enthusiast  
 🎮 Gamer  
 
-    </td>
   </tr>
 </table>
 
