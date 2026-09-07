@@ -16,7 +16,10 @@
   <p>
     🎓 <strong>ADS Student</strong><br>
     💻 <strong>Developer in progress</strong><br>
-    🐧 <strong>Linux enthusiast</strong><br>
+    🐧 <strong>Linux enthusiast</strong><br>🌐 Meus Contatos
+
+<p align="center"> <a href="https://www.linkedin.com/in/jessica-chagas-44a458187"> width="40" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:jessicachagasjf1@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://gitlab.com/JNfx"> <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" alt="GitLab"/> </a> </p>
+
     🎮 <strong>Gamer</strong>
   </p>
 
@@ -94,11 +97,23 @@
 
 ---
 
-🌐 Meus Contatos
+## 🌐 Meus Contatos
 
-<p align="center"> <a href="https://www.linkedin.com/in/jessica-chagas-44a458187"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:jessicachagasjf1@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://gitlab.com/JNfx"> <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" alt="GitLab"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jessica-chagas-44a458187">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<p align="center"> <sub>🎮 Code • Learn • Build • Repeat</sub> </p>
+  <a href="mailto:jessicachagasjf1@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://gitlab.com/JNfx">
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" alt="GitLab"/>
+  </a>
+</p>
 ---
 
 <p align="center">
