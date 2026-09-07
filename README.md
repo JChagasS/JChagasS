@@ -12,7 +12,7 @@
   <tr>
     <td align="center" width="50%">
 
-  <p align="center"> <img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octuscat-git-1.jpeg" alt="Nescau no setup" width="400"/> </p>
+  <p align="center"> <img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octuscat-git-1-removebg-preview.png" alt="Nescau no setup" width="400"/> </p>
 
   ---
 ### 👾 Nescau.exe
