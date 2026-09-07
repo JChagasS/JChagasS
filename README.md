@@ -107,5 +107,5 @@
 </p>
 
 <p align="center">
-  <sub>🎮 Code • Learn • Build • Repeat</sub>
+  <sub>Code • Learn • Build • Repeat</sub>
 </p>
