@@ -14,7 +14,6 @@
 
   <p align="center"> <img src="https://raw.githubusercontent.com/JChagasS/JChagasS/main/Assets/octocat-gamer-git.jpg" alt="Nescau no setup" width="400"/> </p>
 
-    <td align="left" width="50%">
 
 ### 👾 Nescau.exe
 
